@@ -11,12 +11,12 @@ ID,Name,CaptionTextId,IconId,RequiredPropertyId,CompareType,RequiredPropertyForm
 113,[Item common] Warehouse possession number _ maximum value -- 【アイテム共通】 倉庫所持数_最大値,0,9008,0,0,0,最大倉庫所持数
 120,[Items common] required Seoul -- 【アイテム共通】 必要ソウル,12000,8002,0,0,2,必要ソウル
 121,[Items common] earning soul -- 【アイテム共通】 獲得ソウル,12010,8038,0,0,0,獲得ソウル
-200,,11360,9033,0,0,90,使用タイプ
+200,Item Type,11360,9033,0,0,90,使用タイプ
 201,,11310,8009,0,1,100,能力補正 筋力
 202,,11311,8010,0,1,100,能力補正 技量
 203,,11312,8011,0,1,100,能力補正 理力
 204,,11313,8012,0,1,100,能力補正 信仰
-205,,11041,9005,0,2,0,消費MP
+205,FP cost,11041,9005,0,2,0,消費MP
 300,Weapon type -- 【武器】 武器種別,11001,9000,0,0,120,武器種別
 301,Weapon: Attack attributes -- 【武器】 攻撃属性,11003,9001,0,0,2,攻撃属性
 302,【 Weapon 】 Arts name -- 【武器】 アーツ名,11006,9031,0,1,2,戦技名
@@ -80,7 +80,7 @@ ID,Name,CaptionTextId,IconId,RequiredPropertyId,CompareType,RequiredPropertyForm
 412,[Armor] Resistant: bleeding -- 【防具】 耐性：出血,11191,8026,0,1,0,出血耐性
 413,[Armor] Resistant: curse -- 【防具】 耐性：呪い,11192,8028,0,1,0,呪い耐性
 414,[Armor] Resistant: cold air -- 【防具】 耐性：冷気,11193,8029,0,1,0,冷気耐性
-415,,11200,8017,0,2,20,新強靭度
+415,[Armor] Poise,11200,8017,0,2,20,新強靭度
 420,[Armor] Endurance Current Value -- 【防具】 耐久度 現在値,11350,9002,0,1,0,耐久度
 421,[Armor] Endurance maximum -- 【防具】 耐久度 最大値,11350,9002,0,1,0,耐久度
 430,[Armor] damage Cut: physical -- 【防具】 ダメージカット：物理,11180,9023,0,2,20,物理カット率

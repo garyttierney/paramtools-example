@@ -23,6 +23,9 @@ ID,Name,Toughness,DamageLvlThreshold,IsToughnessEffective,pad1,SpEffectId,pad2
 30,Generic: 3.0 x -- 汎用：3.0倍,2.5,0,0,-,6353,-
 35,,3,0,0,-,6354,-
 50,,0.15,0,0,-,6360,-
+51,pvpatch backstep w 60 reset,0.15,60,0,-,6360,-
+52,pvpatch backstep w 60 reset + 20 ph,0.2,60,0,-,6360,-
+53,pvpatch dragon attack,0.4,80,0,-,6360,-
 100,Attack: one hand: weak -- 攻撃：片手：弱,1,0,0,-,6352,-
 101,Attack: one hand: weak: Minimum warranty -- 攻撃：片手：弱：最低保障,1,20,0,-,6352,-
 110,Attack: one hand: Strong -- 攻撃：片手：強,1,0,0,-,6352,-
@@ -32,9 +35,16 @@ ID,Name,Toughness,DamageLvlThreshold,IsToughnessEffective,pad1,SpEffectId,pad2
 130,,0.5,0,0,-,6352,-
 131,,0.5,20,0,-,6352,-
 150,,1,80,0,-,6352,-
+151,50% toughness,0.5,80,0,-,6352,-
+152,weapon poise health w reset,1,100,0,-,6352,-
+155,STANDARD WEAPON POISE *0.734 (glaive to DSSS),0.73426574,80,0,-,6352,-
 160,,1,80,0,-,6352,-
 170,,1.5,80,0,-,6352,-
-180,,0.5,80,0,-,6352,-
+180,pvpatch - running attack 0.5 to 0.6,0.6,80,0,-,6352,-
+190,BB charged R2 (Ultra poise) 27.3 ph +60 reset,0.273,60,0,-,6360,-
+191,"BB gun (DSSS poise) 10,5 + 60 reset",0.105,60,0,-,6360,-
+192,Stake Driver GS 21.1 ph,0.211,80,0,-,6360,-
+193,BB (glaive poise) 14.3 unused,0.143,60,0,-,6360,-
 200,,0.1,10,1,-,6352,-
 201,,0.15,15,1,-,6352,-
 202,,0.2,20,1,-,6352,-
@@ -54,5 +64,11 @@ ID,Name,Toughness,DamageLvlThreshold,IsToughnessEffective,pad1,SpEffectId,pad2
 216,,0.9,90,1,-,6353,-
 217,,0.95,95,1,-,6353,-
 218,,1,100,1,-,6353,-
+230,GS R1 poise health,0.211,21,1,-,6352,-
+231,21.1 ph (gs) => 14.3 (glaive),0.677,80,0,-,6352,-
+232,21.1 ph (gs) => 16.3 (hammer),0.77,80,0,-,6352,-
+240,10.5 ph (axe) =>16.3 (hammer),1.55,80,0,-,6352,-
+241,10.5 ph (axe) => 2.44 (hammer) Charged R2,2.33,80,0,-,6352,-
+250,"10.5 ph (SS, scythe) => 14.3 (glaive)",1.36,80,0,-,6352,-
 10000,,0,0,0,-,0,-
 20000,,0,0,0,-,0,-
