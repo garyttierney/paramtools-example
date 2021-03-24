@@ -1,0 +1,8 @@
+#DirectionCameraParam=DIRECTION_CAMERA_PARAM_ST
+ID,Name,RumbleState[ON_OFF],pad1
+80,Front unprotected directing camera -- 前面無防備演出カメラ,1,-
+81,Front unprotected production camera (pull out) -- 前面無防備演出カメラ（引き抜き）,1,-
+82,Front unprotected production camera (for mallet thrown) -- 前面無防備演出カメラ（槌たたきつけ用）,1,-
+83,Front unprotected production camera (for large sword) -- 前面無防備演出カメラ（大剣用）,1,-
+90,Rear unprotected directing camera -- 背面無防備演出カメラ,1,-
+92,Rear unprotected directing camera (for Mallet) -- 背面無防備演出カメラ（槌用）,1,-

@@ -1,0 +1,7 @@
+#ProtectorGenParam=PROTECTOR_GEN_PARAM_ST
+ID,Name,proParamId,gemSlotType_0,gemGenId_0,gemSlotType_1,gemGenId_1,gemSlotType_2,gemGenId_2,gemSlotType_3,gemGenId_3,gemSlotType_4,gemGenId_4
+0,The Impossible -- ぬのきれ,0,2147483648,-1,2147483648,-1,2147483648,-1,2147483648,-1,2147483648,-1
+770000,[Proto] Hunter _ head _ New joint -- 【プロト】ハンター_頭_新関節,770000,2147484000,-1,2147484000,-1,2147484000,-1,2147484000,-1,2147484000,-1
+771000,[Proto] Hunter _ torso _ New Joint -- 【プロト】ハンター_胴_新関節,771000,4,3,2147484000,-1,2147484000,-1,2147484000,-1,2147484000,-1
+772000,[Proto] Hunter _ arms _ New Joints -- 【プロト】ハンター_腕_新関節,772000,2147484000,-1,2147484000,-1,2147484000,-1,2147484000,-1,2147484000,-1
+773000,[Proto] Hunter _ leg _ New joint -- 【プロト】ハンター_脚_新関節,773000,2147484000,-1,2147484000,-1,2147484000,-1,2147484000,-1,2147484000,-1

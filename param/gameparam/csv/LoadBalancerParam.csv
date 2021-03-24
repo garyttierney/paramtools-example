@@ -1,0 +1,5 @@
+#LoadBalancerParam=LOAD_BALANCER_PARAM_ST
+ID,Name,Unk1,Unk2,Unk3,Unk4,Unk5,Unk6,LoadBalancerVal0,LoadBalancerVal1,LoadBalancerVal2,LoadBalancerVal3,LoadBalancerVal4,LoadBalancerVal5,LoadBalancerVal6,LoadBalancerVal7,LoadBalancerVal8,LoadBalancerVal9,LoadBalancerVal10,LoadBalancerVal11,LoadBalancerVal12,LoadBalancerVal13,LoadBalancerVal14,LoadBalancerVal15,LoadBalancerVal16,LoadBalancerVal17,pad1
+0,,23,27,5,20,30,10,12,5,15,12,7,7,10,6,13,8,1,1,1,4,3,4,4,3,-
+1,,23,27,5,20,30,10,12,5,15,12,7,7,10,6,13,8,1,1,1,4,3,4,4,3,-
+2,,23,27,5,20,30,10,12,5,15,12,7,7,10,6,13,8,1,1,1,4,3,4,4,3,-

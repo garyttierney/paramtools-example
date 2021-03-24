@@ -1,0 +1,3 @@
+#BudgetParam=BUDGET_PARAM_ST
+ID,Name,MemoryBudget0,MemoryBudget1,MemoryBudget2,MemoryBudget3,MemoryBudget4,MemoryBudget5,MemoryBudget6,MemoryBudget7,MemoryBudget8,MemoryBudget9,MemoryBudget10,MemoryBudget11,MemoryBudget12,MemoryBudget13,MemoryBudget14,MemoryBudget15,MemoryBudget16,MemoryBudget17,MemoryBudget18,MemoryBudget19,MemoryBudget20,MemoryBudget21,MemoryBudget22,MemoryBudget23,MemoryBudget24,MemoryBudget25,pad1
+0,Default (delete not allowed) -- デフォルト(削除禁止),3000,340,500,980,220,150,150,160,60,100,50,145,5,140,110,100,20,256,45,5,200,50,50,50,3000,370,-

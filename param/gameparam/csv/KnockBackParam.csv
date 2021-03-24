@@ -1,0 +1,5 @@
+#KnockBackParam=KNOCKBACK_PARAM_ST
+ID,Name,damage_Min_ContTime,damage_S_ContTime,damage_M_ContTime,damage_L_ContTime,damage_BlowS_ContTime,damage_BlowM_ContTime,damage_Strike_ContTime,damage_Uppercut_ContTime,damage_Push_ContTime,damage_Breath_ContTime,damage_HeadShot_ContTime,guard_S_ContTime,guard_L_ContTime,guard_LL_ContTime,guardBrake_ContTime,damage_min_decTime,damage_S_decTime,damage_M_decTime,damage_L_decTime,damage_BlowS_decTime,damage_BlowM_decTime,damage_Strike_decTime,damage_Uppercut_DecTime,damage_Push_DecTime,damage_Breath_DecTime,damage_HeadShot_DecTime,guard_S_DecTime,guard_L_DecTime,guard_LL_DecTime,guardBrake_DecTime,pad1
+0,Generic -- 汎用,0.02,0.01,0.03,0.05,0,0,0.1,0.45,0.1,0,0,0.05,0.02,0,0.07,0.06,0.15,0.69,1,0,0,0,1.75,0.9,0,0,0.2,0.7,0,0.2,-
+1,For PC -- PC用,0.09,0.09,0.09,0.09,0.09,0.09,0.06,0.3,0.09,0,0,0.06,0.06,0.09,0.06,0.18,0.3,0.59,1,1.2,1.2,0.6,1.5,0.81,0,0,0.3,0.93,1.2,0.54,-
+10,Enemy generic Old -- 敵汎用old,0.02,0.02,0.05,0.02,0,0,0.2,0.2,0.2,0,0,0.02,0.02,0,0,0.02,0.02,0.8,0.8,0,0,0,0,1,0,0,0.2,0.7,0,0,-
